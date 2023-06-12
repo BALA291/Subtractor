@@ -71,6 +71,7 @@ A full subtractor is a combinational circuit that performs subtraction involving
  ```
 ## RTL Schematic:
 1.Half Subtractor
+
 ![dig4a](https://github.com/BALA291/Subtractor/assets/120717501/bf005a69-0321-4866-b087-ab3eef1a8832)
 
  2.Full Subtractor
