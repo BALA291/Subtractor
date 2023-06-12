@@ -75,6 +75,7 @@ A full subtractor is a combinational circuit that performs subtraction involving
 ![dig4a](https://github.com/BALA291/Subtractor/assets/120717501/bf005a69-0321-4866-b087-ab3eef1a8832)
 
  2.Full Subtractor
+ 
 ![dig4b](https://github.com/BALA291/Subtractor/assets/120717501/842f75d8-6eae-46ab-88d3-1aaee90215db)
 
 
